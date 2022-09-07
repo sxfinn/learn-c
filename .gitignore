@@ -1,3 +1,17 @@
+#Add By Me
+*.ipch
+*.suo
+*.db
+*.vcxproj
+*.filters
+*.user
+*.sln
+*.log
+*.tlog
+*.recipe
+*.txt
+*.json
+
 # Prerequisites
 *.d
 
